@@ -1,0 +1,17 @@
+*{
+    margin: 20;
+    padding: 20;
+    box-sizing: border-box;
+}
+#blog1{
+    background-color: aqua; font-style: italic;
+}
+.blog2{
+    background-color: blue; font-size: large; font-style: normal;
+}
+#blog3{
+    background-color: yellow; font-style: italic; font-weight: bold;
+}
+h3{
+    font-size: x-large;
+}
